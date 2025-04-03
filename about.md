@@ -10,12 +10,12 @@ I am the Lab Manager and Research Assistant for Hollie Putnam, Jonathan Puritz, 
 
 ### More Information
 
-[Putnam Lab Website](http://putnamlab.com/)  
-[Personal Website](https://meschedl.github.io/)
+[Putnam Lab Website](http://uncklesslab.com/)  
+[Personal Website](https://acckerv.github.io/)
 
 ### Contact me
 
-[meschedl@uri.edu](mailto:meschedl@uri.edu)
+[meschedl@uri.edu](mailto:kerv.acc@ku.edu)
 
 
 ### Positions
