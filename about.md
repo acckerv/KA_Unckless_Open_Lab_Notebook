@@ -10,8 +10,8 @@ I am the Lab Manager and Research Assistant for Hollie Putnam, Jonathan Puritz, 
 
 ### More Information
 
-[Putnam Lab Website](http://uncklesslab.com/)  
-[Personal Website](https://acckerv.github.io/)
+[Unckless Lab Website](http://uncklesslab.com/)  
+[Personal Website](https://github.com/acckerv)
 
 ### Contact me
 
